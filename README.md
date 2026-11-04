@@ -1,6 +1,6 @@
 <div align="center">
 
-# cachyos-rice
+# 🍂 My Linux Rice 🍂
 
 ### A personal CachyOS desktop setup
 
@@ -144,6 +144,6 @@ Thanks to the developers and communities behind:
 
 <div align="center">
 
-**MIT License** · Made on CachyOS
+**made by mejivith 🪡**
 
 </div>
