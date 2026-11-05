@@ -31,21 +31,31 @@ I wanted a setup that stays out of the way. The configs are split into small fil
 
 <div align="center">
 
-<img src="screenshots/preview-desktop.png" alt="CachyOS Niri desktop with Noctalia shell and Kanagawa Dragon theme" width="100%">
+<img src="screenshots/overview.png" alt="CavaTerminalLazyvimCmatrixOverview" width="100%">
 
-<sub>Desktop: Niri + Noctalia</sub>
+<sub>Cmatrix - Terminal - Lazyvim - Cava</sub>
 
 <br><br>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="screenshots/overview.png" alt="Niri overview mode with open windows and workspaces">
-      <br><sub>Niri overview</sub>
+      <img src="screenshots/preview-desktop.png" alt="Niri overview desktop">
+      <br><sub>Desktop Preview</sub>
     </td>
     <td width="50%" align="center">
       <img src="screenshots/preview-terminal.png" alt="Kitty terminal with Fastfetch on Kanagawa Dragon theme">
       <br><sub>Kitty + Fastfetch</sub>
+    </td>
+  </tr>
+    <tr>
+    <td width="50%" align="center">
+      <img src="screenshots/preview-controlpanel.png" alt="Preview Control Center">
+      <br><sub>Preview Control Center</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="screenshots/preview-applauncher.png" alt="Preview AppLauncher">
+      <br><sub>Preview App Launcher</sub>
     </td>
   </tr>
 </table>
@@ -207,6 +217,6 @@ None of this exists without the people behind these projects:
 
 If something here helped you, a ⭐ is always nice. Found a bug or have a tip? [Open an issue](https://github.com/mejivith/cachyos-rice/issues), I'm still learning.
 
-<sub>MIT licensed · made by <a href="https://github.com/mejivith">mejivith</a> 🪡</sub>
+<sub>made by <a href="https://github.com/mejivith">mejivith</a> 🪡</sub>
 
 </div>
